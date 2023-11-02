@@ -1,3 +1,4 @@
+## Step by step guide how to use bootstrap in vue3
 ```sh
 1. npm init vue@latest projectname
 ```

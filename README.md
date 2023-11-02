@@ -1,11 +1,21 @@
+```sh
 1. npm init vue@latest projectname
+```
+´´´sh
 2. cd projectname
+´´´
+´´´sh
 3. npm i bootstrap
+´´´
+´´´sh
 4. in file main.js add
    - import "bootstrap/dist/css/bootstrap.css";
    - import bootstrap from "bootstrap/dist/js/bootstrap.bundle.js";
    - createApp(App).use(bootstrap).mount('#app')
+´´´
+´´´sh
 5. Add bootstrap code (dont need butstrap-vue just the normal bootstrap
+´´´
 
 # 004lv-vuewithbootstrap
 

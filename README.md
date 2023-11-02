@@ -15,7 +15,7 @@
    - createApp(App).use(bootstrap).mount('#app')
 ```
 ```sh
-5. Add bootstrap code (dont need butstrap-vue just the normal bootstrap
+5. Add bootstrap code (dont need bootstrap-vue just the normal bootstrap)
 ```
 
 # 004lv-vuewithbootstrap

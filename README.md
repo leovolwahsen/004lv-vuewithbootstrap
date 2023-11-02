@@ -1,3 +1,12 @@
+1. npm init vue@latest projectname
+2. cd projectname
+3. npm i bootstrap
+4. in file main.js add
+   - import "bootstrap/dist/css/bootstrap.css";
+   - import bootstrap from "bootstrap/dist/js/bootstrap.bundle.js";
+   - createApp(App).use(bootstrap).mount('#app')
+5. Add bootstrap code (dont need butstrap-vue just the normal bootstrap
+
 # 004lv-vuewithbootstrap
 
 This template should help get you started developing with Vue 3 in Vite.
